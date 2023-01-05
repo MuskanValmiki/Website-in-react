@@ -1,0 +1,17 @@
+#home{
+  width: 20vw;
+  height: 10vh;
+  background-color: aqua;
+}
+
+#about{
+  width: 20vw;
+  height: 10vh;
+  background-color: blueviolet;
+}
+
+#dashboard{
+  width: 20vw;
+  height: 10vh;
+  background-color:rgb(64, 64, 194);
+}
